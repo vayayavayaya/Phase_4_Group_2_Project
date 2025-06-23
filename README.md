@@ -61,14 +61,14 @@ The XGBoost model identified the following as the most influential features cont
 | Physical Condition        | 36.73            |
 | Unit Type                 | 32.48            |
 
-### 🧠 Interpretation
+### Interpretation
 
 - **Driver Action** is by far the most influential factor, reinforcing the conclusion that human behavior is the leading contributor to accidents in Chicago.
 - **Secondary causes** and **road conditions** also play significant roles, though to a lesser extent.
 - The model’s feature importance distribution supports targeted interventions, especially those aimed at improving driver behavior and awareness.
 
 
-### 🔍 Key Insight
+###  Key Insight
 
 > **Driver action** emerged as the leading cause of accidents, as identified by the model.
 
